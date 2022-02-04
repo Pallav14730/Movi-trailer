@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/Movi-trailer/static/css/main.e8a8aa87.css",
-    "main.js": "/github.io/Movi-trailer/static/js/main.f396121c.js",
-    "static/js/787.440c4889.chunk.js": "/github.io/Movi-trailer/static/js/787.440c4889.chunk.js",
-    "index.html": "/github.io/Movi-trailer/index.html",
-    "main.e8a8aa87.css.map": "/github.io/Movi-trailer/static/css/main.e8a8aa87.css.map",
-    "main.f396121c.js.map": "/github.io/Movi-trailer/static/js/main.f396121c.js.map",
-    "787.440c4889.chunk.js.map": "/github.io/Movi-trailer/static/js/787.440c4889.chunk.js.map"
+    "main.css": "/Movi-trailer/static/css/main.e8a8aa87.css",
+    "main.js": "/Movi-trailer/static/js/main.69c3e418.js",
+    "static/js/787.440c4889.chunk.js": "/Movi-trailer/static/js/787.440c4889.chunk.js",
+    "index.html": "/Movi-trailer/index.html",
+    "main.e8a8aa87.css.map": "/Movi-trailer/static/css/main.e8a8aa87.css.map",
+    "main.69c3e418.js.map": "/Movi-trailer/static/js/main.69c3e418.js.map",
+    "787.440c4889.chunk.js.map": "/Movi-trailer/static/js/787.440c4889.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8a8aa87.css",
-    "static/js/main.f396121c.js"
+    "static/js/main.69c3e418.js"
   ]
 }
