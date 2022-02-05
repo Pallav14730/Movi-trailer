@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Movi-trailer/static/css/main.e8a8aa87.css",
-    "main.js": "/Movi-trailer/static/js/main.69c3e418.js",
+    "main.css": "/Movi-trailer/static/css/main.de634e34.css",
+    "main.js": "/Movi-trailer/static/js/main.bf956d1e.js",
     "static/js/787.440c4889.chunk.js": "/Movi-trailer/static/js/787.440c4889.chunk.js",
     "index.html": "/Movi-trailer/index.html",
-    "main.e8a8aa87.css.map": "/Movi-trailer/static/css/main.e8a8aa87.css.map",
-    "main.69c3e418.js.map": "/Movi-trailer/static/js/main.69c3e418.js.map",
+    "main.de634e34.css.map": "/Movi-trailer/static/css/main.de634e34.css.map",
+    "main.bf956d1e.js.map": "/Movi-trailer/static/js/main.bf956d1e.js.map",
     "787.440c4889.chunk.js.map": "/Movi-trailer/static/js/787.440c4889.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8a8aa87.css",
-    "static/js/main.69c3e418.js"
+    "static/css/main.de634e34.css",
+    "static/js/main.bf956d1e.js"
   ]
 }
