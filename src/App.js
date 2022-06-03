@@ -1,7 +1,7 @@
 import './App.css';
 import Row from './Row';
 import requests from './requests';
-import Banner from './banner';
+// import Banner from './banner';
 import Footer from './footer';
 import Nav from './nav';
 
