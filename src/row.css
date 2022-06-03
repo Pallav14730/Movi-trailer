@@ -8,7 +8,7 @@
 .nav{
     color: red;
     padding: 20px;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 .row__posters{
   display: flex;
